@@ -1,0 +1,3 @@
+/Users/ismailshalanfeh/CLionProject/prog3B/cmake-build-debug/CMakeFiles/prog3B.dir
+/Users/ismailshalanfeh/CLionProject/prog3B/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ismailshalanfeh/CLionProject/prog3B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
