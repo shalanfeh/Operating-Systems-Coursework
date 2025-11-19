@@ -1,0 +1,3 @@
+/Users/ismailshalanfeh/CLionProjects/css4301A/cmake-build-debug/CMakeFiles/css4301A.dir
+/Users/ismailshalanfeh/CLionProjects/css4301A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ismailshalanfeh/CLionProjects/css4301A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
